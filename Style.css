@@ -1,0 +1,10 @@
+body {
+    margin: 0%;
+    padding: auto;
+    font-family: Arial, Helvetica, monospace;
+    background-color: rgb(226, 21, 226);
+}
+header {
+    text-align: center;
+    color: rgb(245, 67, 35);
+}
