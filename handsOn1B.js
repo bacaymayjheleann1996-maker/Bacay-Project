@@ -1,12 +1,20 @@
-function Compute (){
+function checkBMI(){
 
     let Height=document.getElementById("Height").value;
     let Weight=document.getElementById("Weight").value;
+  
+
+    console.log("you enter:"+ Weight)
+        console.log("you enter:"+ Height);
+        
 
 
+        
+    
 
-    console.log("you enter:"+" "+ Height*Height);
-    console.log("you enter:"+" "+ Weight);
+
+    
+
 
 
 if(BMI=18.5){
@@ -18,10 +26,5 @@ if(BMI=18.5){
  }
  if(BMI=25 && BMI >=29.9)
  
-{console.log("Overweight")
-}else if(Height===""){
-    console.log("Please enter you height")
-
-}
-email
+console.log("Overweight")
 }
